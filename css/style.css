@@ -47,3 +47,6 @@ table {
     color: #333; /* old IE */
     background-color: #333; /* Modern Browsers */
 }
+ol{
+    font-size: 20px;
+}
