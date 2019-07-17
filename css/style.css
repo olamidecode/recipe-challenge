@@ -11,4 +11,27 @@
 }
 h2{
     text-align: center;
+
 }
+body{
+    font-family: 'Kaushan Script', cursive;
+}
+p{
+    font-size: 22px;
+}
+table {
+    font-family: 'Kaushan Script', cursive;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    border: 1px solid;
+  }
