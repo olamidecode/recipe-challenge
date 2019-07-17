@@ -1,5 +1,14 @@
 .img1{
     float: left;
     padding-right: 8%;
+    margin-bottom: 120px;
 }
 
+.video1{
+    display: block;
+    margin: 0 auto;
+
+}
+h2{
+    text-align: center;
+}
