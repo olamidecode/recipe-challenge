@@ -16,8 +16,9 @@ h2{
 }
 body{
     font-family: 'Kaushan Script', cursive;
-    background-image: url();
+    background-image: url(../img/images.jpg);
 }
+   
 p{
     font-size: 22px;
 }
@@ -51,3 +52,4 @@ table {
 ol{
     font-size: 20px;
 }
+
